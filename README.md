@@ -12,3 +12,4 @@
 <h5>
 ابتدا اسکریپت را از لینک زیر دانلود کنید:
 <br>
+<a href="https://github.com/HACKGM/ddos/archive/refs/heads/main.zip">https://github.com/HACKGM/ddos/archive/refs/heads/main.zip</a>
